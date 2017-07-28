@@ -2,5 +2,15 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/Workspace/INTRNLP/libraries/stanford-corenlp-full-2017-06-09/stanford-corenlp-3.8.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/Program%20Files/Eclipse/Workspace/INTRNLP/libraries/stanford-corenlp-full-2017-06-09/stanford-corenlp-3.8.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/Workspace/INTRNLP/libraries/stanford-corenlp-full-2017-06-09/stanford-corenlp-3.8.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/Workspace/INTRNLP/libraries/stanford-corenlp-full-2017-06-09/stanford-corenlp-3.8.0-models.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/Workspace/INTRNLP/libraries/stanford-corenlp-full-2017-06-09/stanford-corenlp-3.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/Workspace/INTRNLP/libraries/stanford-corenlp-full-2017-06-09/protobuf.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/Workspace/INTRNLP/libraries/opencsv-3.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
